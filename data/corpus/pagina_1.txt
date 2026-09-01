@@ -1,0 +1,2 @@
+# TODO
+Extraer texto pagina 1 (aleatoria, consecutiva a pagina_2) del PDF en este mismo folder.

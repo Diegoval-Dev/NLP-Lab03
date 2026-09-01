@@ -1,0 +1,2 @@
+# TODO
+Extraer texto pagina 2 (consecutiva a pagina_1) del PDF en este mismo folder.
